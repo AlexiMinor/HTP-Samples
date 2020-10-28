@@ -23,8 +23,6 @@ namespace Loops
                 Console.WriteLine(result);
             }
 
-
-
             //int a = -1;
 
             //do
