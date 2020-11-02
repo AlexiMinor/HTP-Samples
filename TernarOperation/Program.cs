@@ -15,6 +15,7 @@ namespace TernarOperation
             double z = selection == "+" ? x + y : x / y;
 
             Console.WriteLine(z);
+            Console.WriteLine(z);
         }
     }
 }
