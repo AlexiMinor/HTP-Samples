@@ -24,7 +24,6 @@ namespace Loops
             }
 
             //int a = -1;
-
             //do
             //{
             //    Console.WriteLine(a);
