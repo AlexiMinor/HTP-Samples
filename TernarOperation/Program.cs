@@ -17,6 +17,7 @@ namespace TernarOperation
             Console.WriteLine(z);
 
             
+            Console.WriteLine(z);
         }
     }
 }
