@@ -5,3 +5,9 @@
 *.pdb
 */bin/
 */obj/
+
+HomeWorkOOPSample/HomeWorkOOPSample/bin/
+
+HomeWorkOOPSample/HomeWorkOOPSample/obj/
+
+*.cd
