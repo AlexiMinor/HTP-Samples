@@ -1,0 +1,13 @@
+C:\Users\AlexiMinor\source\repos\GenericCollectionsLinqSample\LinqSample\bin\Debug\netcoreapp3.1\LinqSample.exe
+C:\Users\AlexiMinor\source\repos\GenericCollectionsLinqSample\LinqSample\bin\Debug\netcoreapp3.1\LinqSample.deps.json
+C:\Users\AlexiMinor\source\repos\GenericCollectionsLinqSample\LinqSample\bin\Debug\netcoreapp3.1\LinqSample.runtimeconfig.json
+C:\Users\AlexiMinor\source\repos\GenericCollectionsLinqSample\LinqSample\bin\Debug\netcoreapp3.1\LinqSample.runtimeconfig.dev.json
+C:\Users\AlexiMinor\source\repos\GenericCollectionsLinqSample\LinqSample\bin\Debug\netcoreapp3.1\LinqSample.dll
+C:\Users\AlexiMinor\source\repos\GenericCollectionsLinqSample\LinqSample\bin\Debug\netcoreapp3.1\LinqSample.pdb
+C:\Users\AlexiMinor\source\repos\GenericCollectionsLinqSample\LinqSample\obj\Debug\netcoreapp3.1\LinqSample.csprojAssemblyReference.cache
+C:\Users\AlexiMinor\source\repos\GenericCollectionsLinqSample\LinqSample\obj\Debug\netcoreapp3.1\LinqSample.AssemblyInfoInputs.cache
+C:\Users\AlexiMinor\source\repos\GenericCollectionsLinqSample\LinqSample\obj\Debug\netcoreapp3.1\LinqSample.AssemblyInfo.cs
+C:\Users\AlexiMinor\source\repos\GenericCollectionsLinqSample\LinqSample\obj\Debug\netcoreapp3.1\LinqSample.csproj.CoreCompileInputs.cache
+C:\Users\AlexiMinor\source\repos\GenericCollectionsLinqSample\LinqSample\obj\Debug\netcoreapp3.1\LinqSample.dll
+C:\Users\AlexiMinor\source\repos\GenericCollectionsLinqSample\LinqSample\obj\Debug\netcoreapp3.1\LinqSample.pdb
+C:\Users\AlexiMinor\source\repos\GenericCollectionsLinqSample\LinqSample\obj\Debug\netcoreapp3.1\LinqSample.genruntimeconfig.cache

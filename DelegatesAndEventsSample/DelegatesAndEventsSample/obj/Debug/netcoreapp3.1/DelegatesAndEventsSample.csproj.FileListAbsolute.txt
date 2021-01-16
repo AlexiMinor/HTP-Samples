@@ -1,0 +1,13 @@
+C:\Users\AlexiMinor\source\repos\DelegatesAndEventsSample\DelegatesAndEventsSample\bin\Debug\netcoreapp3.1\DelegatesAndEventsSample.exe
+C:\Users\AlexiMinor\source\repos\DelegatesAndEventsSample\DelegatesAndEventsSample\bin\Debug\netcoreapp3.1\DelegatesAndEventsSample.deps.json
+C:\Users\AlexiMinor\source\repos\DelegatesAndEventsSample\DelegatesAndEventsSample\bin\Debug\netcoreapp3.1\DelegatesAndEventsSample.runtimeconfig.json
+C:\Users\AlexiMinor\source\repos\DelegatesAndEventsSample\DelegatesAndEventsSample\bin\Debug\netcoreapp3.1\DelegatesAndEventsSample.runtimeconfig.dev.json
+C:\Users\AlexiMinor\source\repos\DelegatesAndEventsSample\DelegatesAndEventsSample\bin\Debug\netcoreapp3.1\DelegatesAndEventsSample.dll
+C:\Users\AlexiMinor\source\repos\DelegatesAndEventsSample\DelegatesAndEventsSample\bin\Debug\netcoreapp3.1\DelegatesAndEventsSample.pdb
+C:\Users\AlexiMinor\source\repos\DelegatesAndEventsSample\DelegatesAndEventsSample\obj\Debug\netcoreapp3.1\DelegatesAndEventsSample.csprojAssemblyReference.cache
+C:\Users\AlexiMinor\source\repos\DelegatesAndEventsSample\DelegatesAndEventsSample\obj\Debug\netcoreapp3.1\DelegatesAndEventsSample.AssemblyInfoInputs.cache
+C:\Users\AlexiMinor\source\repos\DelegatesAndEventsSample\DelegatesAndEventsSample\obj\Debug\netcoreapp3.1\DelegatesAndEventsSample.AssemblyInfo.cs
+C:\Users\AlexiMinor\source\repos\DelegatesAndEventsSample\DelegatesAndEventsSample\obj\Debug\netcoreapp3.1\DelegatesAndEventsSample.csproj.CoreCompileInputs.cache
+C:\Users\AlexiMinor\source\repos\DelegatesAndEventsSample\DelegatesAndEventsSample\obj\Debug\netcoreapp3.1\DelegatesAndEventsSample.dll
+C:\Users\AlexiMinor\source\repos\DelegatesAndEventsSample\DelegatesAndEventsSample\obj\Debug\netcoreapp3.1\DelegatesAndEventsSample.pdb
+C:\Users\AlexiMinor\source\repos\DelegatesAndEventsSample\DelegatesAndEventsSample\obj\Debug\netcoreapp3.1\DelegatesAndEventsSample.genruntimeconfig.cache

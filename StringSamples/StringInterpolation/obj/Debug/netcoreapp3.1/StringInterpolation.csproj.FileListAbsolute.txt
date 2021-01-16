@@ -1,0 +1,13 @@
+C:\Users\AlexiMinor\source\repos\StringSamples\StringInterpolation\bin\Debug\netcoreapp3.1\StringInterpolation.exe
+C:\Users\AlexiMinor\source\repos\StringSamples\StringInterpolation\bin\Debug\netcoreapp3.1\StringInterpolation.deps.json
+C:\Users\AlexiMinor\source\repos\StringSamples\StringInterpolation\bin\Debug\netcoreapp3.1\StringInterpolation.runtimeconfig.json
+C:\Users\AlexiMinor\source\repos\StringSamples\StringInterpolation\bin\Debug\netcoreapp3.1\StringInterpolation.runtimeconfig.dev.json
+C:\Users\AlexiMinor\source\repos\StringSamples\StringInterpolation\bin\Debug\netcoreapp3.1\StringInterpolation.dll
+C:\Users\AlexiMinor\source\repos\StringSamples\StringInterpolation\bin\Debug\netcoreapp3.1\StringInterpolation.pdb
+C:\Users\AlexiMinor\source\repos\StringSamples\StringInterpolation\obj\Debug\netcoreapp3.1\StringInterpolation.csprojAssemblyReference.cache
+C:\Users\AlexiMinor\source\repos\StringSamples\StringInterpolation\obj\Debug\netcoreapp3.1\StringInterpolation.AssemblyInfoInputs.cache
+C:\Users\AlexiMinor\source\repos\StringSamples\StringInterpolation\obj\Debug\netcoreapp3.1\StringInterpolation.AssemblyInfo.cs
+C:\Users\AlexiMinor\source\repos\StringSamples\StringInterpolation\obj\Debug\netcoreapp3.1\StringInterpolation.csproj.CoreCompileInputs.cache
+C:\Users\AlexiMinor\source\repos\StringSamples\StringInterpolation\obj\Debug\netcoreapp3.1\StringInterpolation.dll
+C:\Users\AlexiMinor\source\repos\StringSamples\StringInterpolation\obj\Debug\netcoreapp3.1\StringInterpolation.pdb
+C:\Users\AlexiMinor\source\repos\StringSamples\StringInterpolation\obj\Debug\netcoreapp3.1\StringInterpolation.genruntimeconfig.cache

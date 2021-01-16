@@ -1,0 +1,13 @@
+C:\Users\AlexiMinor\source\repos\MulithreadingSamples\ParallelSample\bin\Debug\netcoreapp3.1\ParallelSample.exe
+C:\Users\AlexiMinor\source\repos\MulithreadingSamples\ParallelSample\bin\Debug\netcoreapp3.1\ParallelSample.deps.json
+C:\Users\AlexiMinor\source\repos\MulithreadingSamples\ParallelSample\bin\Debug\netcoreapp3.1\ParallelSample.runtimeconfig.json
+C:\Users\AlexiMinor\source\repos\MulithreadingSamples\ParallelSample\bin\Debug\netcoreapp3.1\ParallelSample.runtimeconfig.dev.json
+C:\Users\AlexiMinor\source\repos\MulithreadingSamples\ParallelSample\bin\Debug\netcoreapp3.1\ParallelSample.dll
+C:\Users\AlexiMinor\source\repos\MulithreadingSamples\ParallelSample\bin\Debug\netcoreapp3.1\ParallelSample.pdb
+C:\Users\AlexiMinor\source\repos\MulithreadingSamples\ParallelSample\obj\Debug\netcoreapp3.1\ParallelSample.AssemblyInfoInputs.cache
+C:\Users\AlexiMinor\source\repos\MulithreadingSamples\ParallelSample\obj\Debug\netcoreapp3.1\ParallelSample.AssemblyInfo.cs
+C:\Users\AlexiMinor\source\repos\MulithreadingSamples\ParallelSample\obj\Debug\netcoreapp3.1\ParallelSample.csproj.CoreCompileInputs.cache
+C:\Users\AlexiMinor\source\repos\MulithreadingSamples\ParallelSample\obj\Debug\netcoreapp3.1\ParallelSample.dll
+C:\Users\AlexiMinor\source\repos\MulithreadingSamples\ParallelSample\obj\Debug\netcoreapp3.1\ParallelSample.pdb
+C:\Users\AlexiMinor\source\repos\MulithreadingSamples\ParallelSample\obj\Debug\netcoreapp3.1\ParallelSample.genruntimeconfig.cache
+C:\Users\AlexiMinor\source\repos\MulithreadingSamples\ParallelSample\obj\Debug\netcoreapp3.1\ParallelSample.csprojAssemblyReference.cache

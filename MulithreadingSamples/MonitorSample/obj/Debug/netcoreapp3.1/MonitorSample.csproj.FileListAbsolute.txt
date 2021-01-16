@@ -1,0 +1,12 @@
+C:\Users\AlexiMinor\source\repos\MulithreadingSamples\MonitorSample\bin\Debug\netcoreapp3.1\MonitorSample.exe
+C:\Users\AlexiMinor\source\repos\MulithreadingSamples\MonitorSample\bin\Debug\netcoreapp3.1\MonitorSample.deps.json
+C:\Users\AlexiMinor\source\repos\MulithreadingSamples\MonitorSample\bin\Debug\netcoreapp3.1\MonitorSample.runtimeconfig.json
+C:\Users\AlexiMinor\source\repos\MulithreadingSamples\MonitorSample\bin\Debug\netcoreapp3.1\MonitorSample.runtimeconfig.dev.json
+C:\Users\AlexiMinor\source\repos\MulithreadingSamples\MonitorSample\bin\Debug\netcoreapp3.1\MonitorSample.dll
+C:\Users\AlexiMinor\source\repos\MulithreadingSamples\MonitorSample\bin\Debug\netcoreapp3.1\MonitorSample.pdb
+C:\Users\AlexiMinor\source\repos\MulithreadingSamples\MonitorSample\obj\Debug\netcoreapp3.1\MonitorSample.AssemblyInfoInputs.cache
+C:\Users\AlexiMinor\source\repos\MulithreadingSamples\MonitorSample\obj\Debug\netcoreapp3.1\MonitorSample.AssemblyInfo.cs
+C:\Users\AlexiMinor\source\repos\MulithreadingSamples\MonitorSample\obj\Debug\netcoreapp3.1\MonitorSample.csproj.CoreCompileInputs.cache
+C:\Users\AlexiMinor\source\repos\MulithreadingSamples\MonitorSample\obj\Debug\netcoreapp3.1\MonitorSample.dll
+C:\Users\AlexiMinor\source\repos\MulithreadingSamples\MonitorSample\obj\Debug\netcoreapp3.1\MonitorSample.pdb
+C:\Users\AlexiMinor\source\repos\MulithreadingSamples\MonitorSample\obj\Debug\netcoreapp3.1\MonitorSample.genruntimeconfig.cache

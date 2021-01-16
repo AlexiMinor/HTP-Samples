@@ -1,0 +1,13 @@
+C:\Users\AlexiMinor\source\repos\MulithreadingSamples\TiimerSample\bin\Debug\netcoreapp3.1\TiimerSample.exe
+C:\Users\AlexiMinor\source\repos\MulithreadingSamples\TiimerSample\bin\Debug\netcoreapp3.1\TiimerSample.deps.json
+C:\Users\AlexiMinor\source\repos\MulithreadingSamples\TiimerSample\bin\Debug\netcoreapp3.1\TiimerSample.runtimeconfig.json
+C:\Users\AlexiMinor\source\repos\MulithreadingSamples\TiimerSample\bin\Debug\netcoreapp3.1\TiimerSample.runtimeconfig.dev.json
+C:\Users\AlexiMinor\source\repos\MulithreadingSamples\TiimerSample\bin\Debug\netcoreapp3.1\TiimerSample.dll
+C:\Users\AlexiMinor\source\repos\MulithreadingSamples\TiimerSample\bin\Debug\netcoreapp3.1\TiimerSample.pdb
+C:\Users\AlexiMinor\source\repos\MulithreadingSamples\TiimerSample\obj\Debug\netcoreapp3.1\TiimerSample.AssemblyInfoInputs.cache
+C:\Users\AlexiMinor\source\repos\MulithreadingSamples\TiimerSample\obj\Debug\netcoreapp3.1\TiimerSample.AssemblyInfo.cs
+C:\Users\AlexiMinor\source\repos\MulithreadingSamples\TiimerSample\obj\Debug\netcoreapp3.1\TiimerSample.csproj.CoreCompileInputs.cache
+C:\Users\AlexiMinor\source\repos\MulithreadingSamples\TiimerSample\obj\Debug\netcoreapp3.1\TiimerSample.dll
+C:\Users\AlexiMinor\source\repos\MulithreadingSamples\TiimerSample\obj\Debug\netcoreapp3.1\TiimerSample.pdb
+C:\Users\AlexiMinor\source\repos\MulithreadingSamples\TiimerSample\obj\Debug\netcoreapp3.1\TiimerSample.genruntimeconfig.cache
+C:\Users\AlexiMinor\source\repos\MulithreadingSamples\TiimerSample\obj\Debug\netcoreapp3.1\TiimerSample.csprojAssemblyReference.cache

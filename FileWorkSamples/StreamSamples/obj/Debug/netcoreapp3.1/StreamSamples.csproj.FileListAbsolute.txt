@@ -1,0 +1,13 @@
+C:\Users\AlexiMinor\source\repos\FileWorkSamples\StreamSamples\bin\Debug\netcoreapp3.1\StreamSamples.exe
+C:\Users\AlexiMinor\source\repos\FileWorkSamples\StreamSamples\bin\Debug\netcoreapp3.1\StreamSamples.deps.json
+C:\Users\AlexiMinor\source\repos\FileWorkSamples\StreamSamples\bin\Debug\netcoreapp3.1\StreamSamples.runtimeconfig.json
+C:\Users\AlexiMinor\source\repos\FileWorkSamples\StreamSamples\bin\Debug\netcoreapp3.1\StreamSamples.runtimeconfig.dev.json
+C:\Users\AlexiMinor\source\repos\FileWorkSamples\StreamSamples\bin\Debug\netcoreapp3.1\StreamSamples.dll
+C:\Users\AlexiMinor\source\repos\FileWorkSamples\StreamSamples\bin\Debug\netcoreapp3.1\StreamSamples.pdb
+C:\Users\AlexiMinor\source\repos\FileWorkSamples\StreamSamples\obj\Debug\netcoreapp3.1\StreamSamples.csprojAssemblyReference.cache
+C:\Users\AlexiMinor\source\repos\FileWorkSamples\StreamSamples\obj\Debug\netcoreapp3.1\StreamSamples.AssemblyInfoInputs.cache
+C:\Users\AlexiMinor\source\repos\FileWorkSamples\StreamSamples\obj\Debug\netcoreapp3.1\StreamSamples.AssemblyInfo.cs
+C:\Users\AlexiMinor\source\repos\FileWorkSamples\StreamSamples\obj\Debug\netcoreapp3.1\StreamSamples.csproj.CoreCompileInputs.cache
+C:\Users\AlexiMinor\source\repos\FileWorkSamples\StreamSamples\obj\Debug\netcoreapp3.1\StreamSamples.dll
+C:\Users\AlexiMinor\source\repos\FileWorkSamples\StreamSamples\obj\Debug\netcoreapp3.1\StreamSamples.pdb
+C:\Users\AlexiMinor\source\repos\FileWorkSamples\StreamSamples\obj\Debug\netcoreapp3.1\StreamSamples.genruntimeconfig.cache

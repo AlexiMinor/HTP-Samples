@@ -1,0 +1,13 @@
+C:\Users\AlexiMinor\source\repos\FileWorkSamples\FileWorkSamples\bin\Debug\netcoreapp3.1\FileWorkSamples.exe
+C:\Users\AlexiMinor\source\repos\FileWorkSamples\FileWorkSamples\bin\Debug\netcoreapp3.1\FileWorkSamples.deps.json
+C:\Users\AlexiMinor\source\repos\FileWorkSamples\FileWorkSamples\bin\Debug\netcoreapp3.1\FileWorkSamples.runtimeconfig.json
+C:\Users\AlexiMinor\source\repos\FileWorkSamples\FileWorkSamples\bin\Debug\netcoreapp3.1\FileWorkSamples.runtimeconfig.dev.json
+C:\Users\AlexiMinor\source\repos\FileWorkSamples\FileWorkSamples\bin\Debug\netcoreapp3.1\FileWorkSamples.dll
+C:\Users\AlexiMinor\source\repos\FileWorkSamples\FileWorkSamples\bin\Debug\netcoreapp3.1\FileWorkSamples.pdb
+C:\Users\AlexiMinor\source\repos\FileWorkSamples\FileWorkSamples\obj\Debug\netcoreapp3.1\FileWorkSamples.csprojAssemblyReference.cache
+C:\Users\AlexiMinor\source\repos\FileWorkSamples\FileWorkSamples\obj\Debug\netcoreapp3.1\FileWorkSamples.AssemblyInfoInputs.cache
+C:\Users\AlexiMinor\source\repos\FileWorkSamples\FileWorkSamples\obj\Debug\netcoreapp3.1\FileWorkSamples.AssemblyInfo.cs
+C:\Users\AlexiMinor\source\repos\FileWorkSamples\FileWorkSamples\obj\Debug\netcoreapp3.1\FileWorkSamples.csproj.CoreCompileInputs.cache
+C:\Users\AlexiMinor\source\repos\FileWorkSamples\FileWorkSamples\obj\Debug\netcoreapp3.1\FileWorkSamples.dll
+C:\Users\AlexiMinor\source\repos\FileWorkSamples\FileWorkSamples\obj\Debug\netcoreapp3.1\FileWorkSamples.pdb
+C:\Users\AlexiMinor\source\repos\FileWorkSamples\FileWorkSamples\obj\Debug\netcoreapp3.1\FileWorkSamples.genruntimeconfig.cache
